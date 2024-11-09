@@ -1,6 +1,11 @@
+body {
+    background: lightpink;
+}
+
 h1 {
     font-family: helvetica;
     font-size: 30px;
+    text-align: center;
 }
 
 #excuse {
@@ -8,5 +13,8 @@ h1 {
 }
 
 .contenedordeexcusas {
-    position: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
