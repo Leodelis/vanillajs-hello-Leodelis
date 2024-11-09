@@ -1,1 +1,12 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+h1 {
+    font-family: helvetica;
+    font-size: 30px;
+}
+
+#excuse {
+    text-align: center;
+}
+
+.contenedordeexcusas {
+    position: center;
+}
