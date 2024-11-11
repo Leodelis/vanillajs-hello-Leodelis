@@ -1,5 +1,3 @@
-import "./style.css";
-
 window.onload = function() {
   // array de las frases
 
